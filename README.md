@@ -73,8 +73,8 @@ We welcome contributors from the community.
 
 ## 📌 Initiative
 
-Started under TinkerHub SNGCE
-Campus Lead 2025–26 — Abhiram P
+Started under TinkerHub SNGCE  
+Campus Lead 2025–26 — [Abhiram P](https://github.com/ABHIRAM-CREATOR06)
 
 ---
 
