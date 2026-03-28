@@ -1,3 +1,5 @@
+![Built By Us Banner](initiative.png)
+
 # ⚙️ Built By Us Initiative
 
 > “This is for everyone.”
@@ -12,6 +14,9 @@
 Instead of relying on fragmented platforms, we design and build systems tailored to real needs — simple, efficient, and open.
 
 ---
+## 💡 Inspiration
+
+![Inspiration](inspiration.png)
 
 ## 🚀 What We Do
 
